@@ -1,0 +1,8 @@
+/* Additional Custom Styles (if needed) */
+
+.error {
+    color: red;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}
